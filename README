@@ -1,0 +1,42 @@
+ A user should be able to:
+
+ - sign up with his information (name, email, password, gender, dob)
+   - use the website only if he is logged in
+   - change only his information and *not* others information
+   - edit his profile (name, picture)
+   - view other profiles
+   - deactivate their accounts
+   - show his present location/ip for authentication
+   - block users/content
+   - should be able to customize home page (chane colors and stuff)
+
+ - create/edit/remove posts by himself
+  - share videos/urls from youtube or external sources
+  - comment on others or his own posts
+
+ - upload pictures or videos
+  - comment on pictures or videos
+
+ - send a "friend request"
+  - if a user approves this request he should be added to the friend network
+  - send friend suggestions
+  - network of friends
+  - should see activities of his friends
+
+ - chat with friends
+   - show chat history
+
+ - play games
+
+ - search
+  - for friends (with email, name)
+
+ - create/manage groups
+ - should be able to conduct events
+
+ - send messages
+   - poke someone
+
+ - change privacy settings (this should control how information is exposed)
+
+ An administrator should be able to:
